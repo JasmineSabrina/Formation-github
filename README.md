@@ -1,1 +1,2 @@
 # ideal-train
+README POUR LA FORMATION
