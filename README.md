@@ -1,2 +1,2 @@
-# ideal-train
+# Formation-github
 README POUR LA FORMATION
